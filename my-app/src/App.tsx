@@ -30,7 +30,7 @@ class App extends React.Component<{}, mainState> {
     private async weatherFetch(e:any) {
         e.preventDefault();
         const weatherCity = e.target.elements.city.value;
-        const api_call = await fetch('http://api.openweathermap.org/data/2.5/weather?q=' + weatherCity + '&appid='+ process.env.REACT_APP_API_KEY +'&units=metric');
+        const api_call = await fetch('http://api.openweathermap.org/data/2.5/weather?q=' + weatherCity + '&appid=35057552270e2d473c6658f4d845102d&units=metric');
         const jsonResponse = await api_call.json();
         if (weatherCity && jsonResponse.message !== "city not found") {
             this.setState({
