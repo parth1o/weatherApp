@@ -5,4 +5,4 @@ I have unhidden my API key to make it easier for the marker to run and mark my w
 The web app is currently not functioning as expected in the azure production environment for some unknown reason but it works perfectly on a local environment.
 I created this web app as it seemed simple and easy to develop right from the on set and it seemed useful.
 
-This is the api used: https://openweathermap.org/current
+The API used: https://openweathermap.org/current
