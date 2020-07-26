@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:wght@900&display=swap');
+.descript {
+    display: inline-block !important;
+    width: 40vw !important;
+    color: lemonchiffon !important;
+    margin-top: 2vh !important;
+    font-size: 1.2em !important;
+    font-family: 'Vollkorn', serif !important;
+}
+.bolder{
+    color: cadetblue !important;
+    display: inline-block !important;
+}

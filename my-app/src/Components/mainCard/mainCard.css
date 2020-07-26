@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:wght@900&display=swap');
+
+.button{
+    margin-top: 2vh !important;
+    font-family: 'Vollkorn', serif !important;
+    text-transform: capitalize !important;
+    background-color: cadetblue !important;
+    border: 0!important;
+    border-radius: 0.4em !important;
+    font-size: 1em !important;
+    color: lemonchiffon !important;
+    font-weight: 100 !important;
+}
+.textt{
+    font-family: 'Vollkorn', serif !important;
+    background-color: lemonchiffon !important;
+    width:30vw;
+    font-size:1em !important;
+    text-align: center !important;
+    color: white !important;
+    border-radius: 0.2em;
+    margin-top: 2.5em !important;
+}
+.test {
+    margin-top: 1.2em;
+    color: beige !important;
+    display: block !important;
+    font-family: 'Vollkorn', serif !important;
+}
