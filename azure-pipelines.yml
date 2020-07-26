@@ -42,5 +42,5 @@ steps:
 
 - task: CmdLine@2
   inputs:
-    script: 'echo REACT_APP_API_KEY = $(APP_KEY) > $(rootDir)/.env'
+    script: 'echo REACT_APP_API_KEY = $(35057552270e2d473c6658f4d845102d) > $(rootDir)/.env'
   displayName: 'Setting environment variables'
