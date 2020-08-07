@@ -6,6 +6,7 @@ Although both my build and release pipelines work as expected, the web app is cu
 I created this web app as it seemed simple and easy to develop right from the on set and it seemed useful.
 
 The API used: https://openweathermap.org/current
+
 Live deployed web app: https://msa-weather-app.azurewebsites.net/
 
 Build & release piplines description:
